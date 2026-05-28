@@ -1,0 +1,5 @@
+# Este arquivo é opcional para Cloudflare Pages
+# Configure o build diretamente no Cloudflare Pages Dashboard:
+# - Build command: pnpm build
+# - Build output directory: dist/public
+# - Root directory: /
